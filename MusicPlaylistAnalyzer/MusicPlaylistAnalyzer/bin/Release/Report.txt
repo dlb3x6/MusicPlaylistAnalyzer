@@ -1,0 +1,13 @@
+Music Playlist Report
+
+Songs that received 200 or more plays:
+{ Name = Losing Touch, Artist = The Killers, Plays = 478 }, { Name = Tranquilize (Feat. Lou Reed), Artist = The Killers, Plays = 433 }, { Name = "Ruby, Don't Take Your Love to Town", Artist = The Killers, Plays = 256 }, 
+Number of Alternative songs: 39
+Number of Hip Hop/Rap songs: 19
+Songs from the album Welcome to the Fishbowl:
+{ Name = Come Over, Artist = Kenny Chesney }, { Name = Feel like a Rock Star (with Tim McGraw), Artist = Kenny Chesney }, { Name = Welcome to the Fishbowl, Artist = Kenny Chesney }, 
+Songs from before 1970:
+{ Name = "Hello, I Love You", Artist = The Doors }, 
+Song names longer than 85 characters:
+{ Name = "Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)", Artist = DJ Khaled }, 
+Longest song: { Name = "Devil, Devil (Prelude: Princess of Darkness)", Artist = Eric Church }

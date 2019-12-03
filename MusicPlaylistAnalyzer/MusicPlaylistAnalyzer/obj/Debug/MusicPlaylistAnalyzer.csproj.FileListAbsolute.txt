@@ -1,0 +1,6 @@
+D:\Users\Darian\Documents\IT 2040\My Codes\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe.config
+D:\Users\Darian\Documents\IT 2040\My Codes\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe
+D:\Users\Darian\Documents\IT 2040\My Codes\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.pdb
+D:\Users\Darian\Documents\IT 2040\My Codes\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+D:\Users\Darian\Documents\IT 2040\My Codes\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.exe
+D:\Users\Darian\Documents\IT 2040\My Codes\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.pdb
